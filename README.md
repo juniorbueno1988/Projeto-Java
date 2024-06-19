@@ -49,17 +49,9 @@ A classe Principal deve executar as seguintes ações:
 2. Importe o projeto em sua IDE de preferência.
 3. Compile e execute a classe `Principal`.
 
-## Considerações Finais
-
-- Se não souber como resolver algum requisito, comente no código explicando a dificuldade e passe para o próximo item.
-- Após finalizar o desenvolvimento, exporte o projeto e envie o link conforme solicitado.
-
-Boa sorte e esperamos que você demonstre todo o seu conhecimento e criatividade neste teste.
-
 ## Contato
 
-Em caso de dúvidas, entre em contato com o time técnico da Iniflex.
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?logo=whatsapp)](https://wa.me/5561992953065) (61) 99295-3065
 ---
 
 **Nota**: Certifique-se de que seu código está bem documentado e organizado, facilitando a compreensão e a avaliação do seu projeto pela equipe técnica.
