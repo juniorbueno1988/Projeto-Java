@@ -1,8 +1,8 @@
-# Teste Prático - Iniflex
+# Teste Prático
 
 ## Descrição do Projeto
 
-Este projeto é um teste prático de programação em Java, solicitado pela empresa Iniflex, para avaliar habilidades de desenvolvimento. O objetivo é criar um sistema que gerencie uma lista de funcionários de uma indústria, implementando diversas funcionalidades relacionadas ao gerenciamento de dados dos funcionários.
+Este projeto é um teste prático de programação em Java, solicitado como teste técnico de uma empresa, para avaliar habilidades de desenvolvimento. O objetivo é criar um sistema que gerencie uma lista de funcionários de uma indústria, implementando diversas funcionalidades relacionadas ao gerenciamento de dados dos funcionários.
 
 ## Estrutura do Projeto
 
@@ -32,7 +32,7 @@ A classe Principal deve executar as seguintes ações:
 
 ## Requisitos
 
-- Utilização da linguagem Java.
+- Utilização da linguagem Java orientado ao objeto.
 - Uso de classes e herança.
 - Manipulação de listas e mapas.
 - Formatação de datas e números.
