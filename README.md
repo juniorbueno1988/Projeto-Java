@@ -53,5 +53,3 @@ A classe Principal deve executar as seguintes ações:
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?logo=whatsapp)](https://wa.me/5561992953065) (61) 99295-3065
 ---
-
-**Nota**: Certifique-se de que seu código está bem documentado e organizado, facilitando a compreensão e a avaliação do seu projeto pela equipe técnica.
