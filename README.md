@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto é um teste prático de programação em Java, solicitado como teste técnico de uma empresa, para avaliar habilidades de desenvolvimento. O objetivo é criar um sistema que gerencie uma lista de funcionários de uma indústria, implementando diversas funcionalidades relacionadas ao gerenciamento de dados dos funcionários.
+Este projeto é um teste prático de programação em Java, solicitado em um processo seletivo, para avaliar habilidades de desenvolvimento. O objetivo é criar um sistema que gerencie uma lista de funcionários de uma indústria, implementando diversas funcionalidades relacionadas ao gerenciamento de dados dos funcionários.
 
 ## Estrutura do Projeto
 
