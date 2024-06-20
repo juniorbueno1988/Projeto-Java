@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto é um teste prático de programação em Java, solicitado em um processo seletivo, para avaliar habilidades de desenvolvimento. O objetivo é criar um sistema que gerencie uma lista de funcionários de uma indústria, implementando diversas funcionalidades relacionadas ao gerenciamento de dados dos funcionários.
+Este projeto é um teste prático de programação em Java, solicitado como teste técnico de uma empresa, para avaliar habilidades de desenvolvimento. O objetivo é criar um sistema que gerencie uma lista de funcionários de uma indústria, implementando diversas funcionalidades relacionadas ao gerenciamento de dados dos funcionários.
 
 ## Estrutura do Projeto
 
@@ -48,8 +48,10 @@ A classe Principal deve executar as seguintes ações:
 1. Clone ou baixe o repositório do projeto.
 2. Importe o projeto em sua IDE de preferência.
 3. Compile e execute a classe `Principal`.
-   
+
 ## Contato
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-green?logo=whatsapp)](https://wa.me/5561992953065) (61) 99295-3065
 ---
+
+**Nota**: Certifique-se de que seu código está bem documentado e organizado, facilitando a compreensão e a avaliação do seu projeto pela equipe técnica.
